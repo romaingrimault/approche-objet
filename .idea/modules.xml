@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MAVEN/MAVEN.iml" filepath="$PROJECT_DIR$/MAVEN/MAVEN.iml" />
       <module fileurl="file://$PROJECT_DIR$/approche-objet.iml" filepath="$PROJECT_DIR$/approche-objet.iml" />
     </modules>
   </component>
