@@ -8,8 +8,8 @@ public class ConversionNombre {
        int a=5;
        int b=15;
         System.out.println("Nombre max entre a et b");
-       /* pas trouver
-    int ret=   Integer.compare(a,b);
-        System.out.println(ret);*/
+
+    int ret= Math.max(a,b);
+        System.out.println(ret);
     }
 }
