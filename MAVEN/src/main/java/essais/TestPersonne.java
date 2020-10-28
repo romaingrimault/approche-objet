@@ -10,7 +10,6 @@ public class TestPersonne {
 
         Personne personne_1=new Personne("Grimault","Romain",adresse_1);
         Personne personne_2=new Personne("Girard","Claire",adresse_2);
-
-
+    personne_1.setAdresse(adresse_2);
     }
 }
