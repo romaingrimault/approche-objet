@@ -8,6 +8,10 @@ public class Pays {
     public Pays() {
     }
 
+    public Pays(String nom) {
+        this.nom = nom;
+    }
+
     public Pays(String nom, int nbHabitant, double pibHabitant) {
         this.nom = nom;
         this.nbHabitant = nbHabitant;
@@ -48,4 +52,5 @@ public class Pays {
                 ", nbHabitant=" + nbHabitant +
                 ", pibHabitant=" + pibHabitant ;
     }
+
 }
